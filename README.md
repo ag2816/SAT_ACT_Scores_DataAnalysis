@@ -8,3 +8,11 @@ The goal of this project was to come up with recommendations to improve SAT part
 A powerpoint presentation summarizing my findings can be found <a href="https://drive.google.com/open?id=1kUbkNgGlD0A6G_cREPoRIP1TaUrNnCkl">here</a>
 
 In addition, the sat_act_participation_rates.ipynb notebook contains the full code for this project
+
+<h2>Tools Used</h2>
+<ul>
+  <li>Pandas</li>
+  <li>Altair</li>
+  <li>Tableau Public (to generate choropleth maps)</li>
+
+</ul>
